@@ -208,4 +208,10 @@ a.externo::after {
     main img.pq{
         width: 100%;
     }
+    picture .de{
+        width: 100%;
+    }
+    picture .de img{
+        width: 100%;
+    }
 }
