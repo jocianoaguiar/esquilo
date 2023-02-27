@@ -209,9 +209,11 @@ a.externo::after {
         width: 100%;
     }
     picture .de{
+        display:none;
         width: 100%;
     }
     picture .de img{
         width: 100%;
+        display:none;
     }
 }
